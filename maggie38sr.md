@@ -19,7 +19,7 @@
 1. ダイオード、TRRSコネクター、タクトスイッチ、ソケットを半田付けします。
 2. コンスルーを使用する場合、Raspberry Pi Picoに半田付けします。
 3. 基板にRaspberry Pi Picoを差し込みます（コンスルー不使用の場合半田付けします）
-4. BOOTSELスイッチを押したままUSBケーブルを接続し、ファームウェアを書き込みます。
+4. BOOTSELスイッチを押したままUSBケーブルを接続し、ファームウェアを書き込みます。[公式ドキュメント](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#resetting-flash-memory)などを参考にしてください。
 5. 完成です。キーマップを編集するときはRemapを使用してください（JSONファイルをアップロードして利用が可能です。）
 
 ## ファームウェア
@@ -28,4 +28,9 @@
 
 [Remap / VIA 用 JSONファイル](./maggie38sr.via.json)
 
-[レイアウトデータ](https://www.keyboard-layout-editor.com/#/gists/450e32e83925615fe3a56782792e0b92)（キープレートやケース等の参考にしてください。基板は19.05mmピッチで作成しています）
+[レイアウトデータ](https://www.keyboard-layout-editor.com/#/gists/450e32e83925615fe3a56782792e0b92)（キープレートやケース等の参考にしてください。スイッチは19.05mmピッチで作成しています）
+
+## おことわり
+
+- 製作に関するサポートには応じておりません。あらかじめご了承ください。
+- 不良品等の交換はできません。

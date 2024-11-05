@@ -1,7 +1,4 @@
-# Studio Purring
-
-キーボード製作
-
+![logo](./image/logo_image.jpg)
 ## 製品
 
 ### maggiepat17
